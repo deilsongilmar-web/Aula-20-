@@ -2,7 +2,7 @@
 
 [FakeStoreAPI](https://fakestoreapi.com) is a free online REST API that you can use whenever you need Pseudo-real data for
 your e-commerce or shopping website without running any server-side code.
-It's awesome for teaching purposes, sample codes, tests and etc.
+It's awesome for teaching purposes, sample codes, tests and etc...
 
 You can visit in detail docs in [FakeStoreAPI](https://fakestoreapi.com) for more information.
 
